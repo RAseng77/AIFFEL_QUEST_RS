@@ -22,3 +22,15 @@
 - **MainQuest는 핵심과제를 정리하고 있습니다.**
 
 ---
+# 🚀 AIFFEL Quest - Rock Solid Edition
+
+> AIFFEL(모두의연구소 AI 혁신학교) 학습 과정에서 수행한 프로젝트를 정리한 저장소입니다.
+
+[![AIFFEL](https://img.shields.io/badge/AIFFEL-AI%20Innovation%20School-blue)](https://aiffel.io/)
+[![Python](https://img.shields.io/badge/Python-3.8+-green.svg)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange.svg)](https://www.tensorflow.org/)
+
+---
+
+## 📚 Repository Structure
+
