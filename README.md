@@ -9,4 +9,96 @@
 ---
 
 ## 📚 Repository Structure
-AIFFEL_QUEST_RS/ │ ├── 📂 Exploration/ # 기초 ML/DL 프로젝트 (9개) │ ├── Ex01/ │ ├── Ex02/ │ ├── Ex03/ │ ├── Ex04/ │ ├── Ex05/ │ ├── Ex06/ │ ├── Ex07/ │ ├── Ex08/ │ └── Ex09/ │ ├── 📂 GoingDeeper/ # 심화 프로젝트 (8개) │ ├── GD01/ │ ├── GD02/ │ ├── GD03/ │ ├── GD04/ │ ├── GD05/ │ ├── GD06/ │ ├── GD07/ │ └── GD08/ │ └── 📂 MainQuest/ # 메인 퀘스트 프로젝트 (5개) ├── MQ01/ ├── MQ02/ ├── MQ03/ ├── MQ04/ └── MQ05/
+AIFFEL_QUEST_RS
+│
+├─ Exploration
+│  ├─ Ex01
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ Ex02
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ Ex03
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ Ex04
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ Ex05
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ Ex06
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ Ex07
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ Ex08
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  └─ Ex09
+│     ├─ .ipynb
+│     └─ README.md
+│
+├─ GoingDeeper
+│  ├─ GD01
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ GD02
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ GD03
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ GD04
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ GD05
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ GD06
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  ├─ GD07
+│  │  ├─ .ipynb
+│  │  └─ README.md
+│  │
+│  └─ GD08
+│     ├─ .ipynb
+│     └─ README.md
+│
+└─ MainQuest
+   ├─ Quest01
+   │  ├─ .ipynb
+   │  └─ README.md
+   │
+   ├─ Quest02
+   │  ├─ .ipynb
+   │  └─ README.md
+   │
+   ├─ Quest03
+   │  ├─ .ipynb
+   │  └─ README.md
+   │
+   ├─ Quest04
+   │  ├─ .ipynb
+   │  └─ README.md
+   │
+   └─ Quest05
+      ├─ .ipynb
+      └─ README.md
+
